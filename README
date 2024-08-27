@@ -1,0 +1,15 @@
+Title
+Password generator
+
+
+
+About
+This Python script generates a random password using letters, digits, and special characters. You can specify the length of the password, and the script will return a secure, randomly generated password that includes a combination of upper and lowercase letters, numbers, and symbols.
+
+Features
+Generate a random password of customizable length.
+Uses a combination of:
+Lowercase and uppercase letters
+Digits (0-9)
+Special characters (e.g., !@#$%^&*)
+Simple to use with a command-line interface.
